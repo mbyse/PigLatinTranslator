@@ -1,0 +1,9 @@
+c:\users\mbyse\documents\visual studio 2017\Projects\PigLatinTranslator\PigLatinTranslator\bin\PigLatinTranslator.dll.config
+c:\users\mbyse\documents\visual studio 2017\Projects\PigLatinTranslator\PigLatinTranslator\bin\PigLatinTranslator.dll
+c:\users\mbyse\documents\visual studio 2017\Projects\PigLatinTranslator\PigLatinTranslator\bin\PigLatinTranslator.pdb
+c:\users\mbyse\documents\visual studio 2017\Projects\PigLatinTranslator\PigLatinTranslator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mbyse\documents\visual studio 2017\Projects\PigLatinTranslator\PigLatinTranslator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mbyse\documents\visual studio 2017\Projects\PigLatinTranslator\PigLatinTranslator\obj\Debug\PigLatinTranslator.csprojResolveAssemblyReference.cache
+c:\users\mbyse\documents\visual studio 2017\Projects\PigLatinTranslator\PigLatinTranslator\obj\Debug\PigLatinTranslator.csproj.CoreCompileInputs.cache
+c:\users\mbyse\documents\visual studio 2017\Projects\PigLatinTranslator\PigLatinTranslator\obj\Debug\PigLatinTranslator.dll
+c:\users\mbyse\documents\visual studio 2017\Projects\PigLatinTranslator\PigLatinTranslator\obj\Debug\PigLatinTranslator.pdb
